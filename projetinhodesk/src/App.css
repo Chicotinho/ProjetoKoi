@@ -1,0 +1,10 @@
+.App {
+  background-color: gray;
+}
+.App-navbar {
+  background-color: black;
+  height: 10vh;
+}
+.Text-navbar {
+  color: white;
+}
